@@ -1,0 +1,8 @@
+---
+applications:
+- name: payment_ranks_leo
+  host: payment_ranks_leo
+  memory: 512M
+  disk_quota: 1028M
+  timeout: 60
+  buildpack: python_buildpack
